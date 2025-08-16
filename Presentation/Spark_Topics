@@ -1,0 +1,55 @@
+
+- [ ] ✓ Overview of Hadoop HDFS Commands
+- [ ] ✓ Apache Spark 2 using Scala - Data Processing – Overview
+- [ ] ✓ Apache Spark 2 using Scala - Processing Column Data using Pre-defined Functions
+- [ ] ✓ Apache Spark 2 using Scala - Basic Transformations using Data Frames
+- [ ] ✓ Apache Spark 2 using Scala - joining Data Sets
+- [ ] ✓ Apache Spark 2 using SQL - Getting Started
+- [ ] ✓ Apache Spark 2 using SQL - Basic Transformations
+- [ ] ✓ Apache Spark 2 using SQL - Basic DDL and DML
+- [ ] ✓ Apache Spark 2 using SQL - DML and Partitioning
+- [ ] ✓ Apache Spark 2 using SQL - Pre -Defined Functions
+- [ ] ✓ Apache Spark 2 using SQL - Pre -Defined Functions - Exercises
+- [ ] ✓ Apache Spark 2 using SQL - Windowing Functions
+- [ ] ✓ Sample scenarios with solutions
+SPARK Basics
+• What is Spark?
+• History of Spark
+• Spark Architecture
+• Spark Shell
+Working with RDDs in Spark
+• RDD Basics
+• Creating RDDs in Spark.
+• RDD Operations.
+• Passing Functions to Spark.
+• Transformations and Actions in Spark
+• Spark RDD Persistence
+Working with Key/Value Pairs
+• Pair RDDs
+• Transformations on Pair RDDs
+• Actions Available on Pair RDDs.
+• Data Partitioning (Advanced)
+• Example: PageRank
+• Loading and Saving the Data.
+Spark Advanced
+• Accumulators
+• Broadcast Variables
+
+• Piping to External Programs
+• Numeric RDD Operations
+• Spark Runtime Architecture
+• Deploying Applications
+SPARK with SQL
+• Spark SQL Overview
+• Spark SQL Architecture
+• Catalyst
+• Plan Optimization & Execution
+• ROW API
+Spark streaming
+• What is Spark streaming?
+• Spark streaming : How it works ?
+• Spark DStreams
+• A Twitter example
+• Fault-tolerance
+• Stateful Stream Processing
+pyspark introduction
