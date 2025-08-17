@@ -2,7 +2,7 @@
 
 ## Files
 - `people.csv` — small sample dataset
-- `simple_etl.py` — PySpark script that:
+- `simpleetl.py` — PySpark script that:
   - reads the CSV
   - filters people with age >= 30
   - computes average salary and count per city
@@ -12,7 +12,7 @@
 ## Run (macOS/Linux)
 ```bash
 cd pyspark_simple
-spark-submit simple_etl.py
+spark-submit simpleetl.py
 # or interactively
 pyspark
 # then inside PySpark shell:
@@ -22,7 +22,7 @@ pyspark
 ## Run (Windows, Command Prompt)
 ```cmd
 cd pyspark_simple
-spark-submit simple_etl.py
+spark-submit simpleetl.py
 ```
 
 ## PySpark Shell (quick interactive)
